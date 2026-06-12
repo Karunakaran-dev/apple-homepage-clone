@@ -1,6 +1,8 @@
-# 🍎 Apple Homepage Clone
+## Disclaimer
 
-A modern and responsive clone of the Apple homepage built using **HTML5** and **CSS3**. This project recreates the look and feel of Apple's official website while demonstrating front-end development skills, responsive layouts, and clean UI design.
+This project is an educational Apple Homepage Clone created for learning HTML, CSS, and responsive web design.
+
+This project is not affiliated with, endorsed by, or connected to Apple Inc. All trademarks belong to their respective owners.
 
 ---
 
