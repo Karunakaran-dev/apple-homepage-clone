@@ -59,7 +59,7 @@ Through this project, I gained practical experience in:
 
 📧 Email: [a.karunakaran.dev@gmail.com](mailto:a.karunakaran.dev@gmail.com)
 
-🐙 GitHub: https://github.com/Karunakaran-dev
+🐙 GitHub: https://github.com/a-Karunakaran-dev
 
 🔗 LinkedIn: https://linkedin.com/in/a-karunakaran-dev
 
